@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.clasprc.json
+.clasp.json
+*.local.json
+backups/
